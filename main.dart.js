@@ -76922,7 +76922,7 @@ $0(){$.Re=!1},
 $S:0}
 A.q0.prototype={
 N(a){var s=null
-return A.ago(A.af3(B.PN),A.tW(78,30,59,1),A.k0(A.lY(A.b([A.i2(A.afQ("assets/images/logo.png"),s,200),new A.df(B.Cn,A.dn($.aoH+" voc\xea fez "+$.Ro+" acerto(s). Experimente responder aos outro n\xedveis de dificuldade",s,s,s,A.d7(s,s,B.j,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.afA(B.PK,new A.a2d(a))],t.E),B.bD,B.fF,B.cw),s,s))}}
+return A.ago(A.af3(B.PN),A.tW(78,30,59,1),A.k0(A.lY(A.b([A.i2(A.afQ("assets/images/logo.png"),s,200),new A.df(B.Cn,A.dn($.aoH+" voc\xea fez "+$.Ro+" acerto(s). Experimente responder aos outros n\xedveis de dificuldade",s,s,s,A.d7(s,s,B.j,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.afA(B.PK,new A.a2d(a))],t.E),B.bD,B.fF,B.cw),s,s))}}
 A.a2d.prototype={
 $0(){$.hp="0"
 $.Ro=$.t2=0

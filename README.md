@@ -7,7 +7,7 @@ O projeto está disponível no [GitHub Pages](https://joaovictorfdebarros.github
 ## Observações 
 - O objetivo final da aplicação é roda-la nativamente no dispositivo móvel, foi gerada a build web apenas para facilitar a experiência de teste. 
 - A aplicação foi pensada para ser utilizada com a tela na vertical, então sugiro redimensionar a janela para um formato próximo ao de um dispositivo móvel para melhor experiência.
-- 
+  
 # Instalação 
 1. Clone o repositório 
    ```bash 

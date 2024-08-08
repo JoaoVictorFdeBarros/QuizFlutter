@@ -17,7 +17,7 @@ class Screen3 extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.fromLTRB(50, 0, 50, 0),
               child: Text(
-                "${username} você fez ${rightAnswers} acerto(s). Experimente responder aos outro níveis de dificuldade",
+                "${username} você fez ${rightAnswers} acerto(s). Experimente responder aos outros níveis de dificuldade",
                 style: TextStyle(color: Colors.white, fontSize: 18),
               ),
             ),

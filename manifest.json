@@ -1,7 +1,7 @@
 {
     "name": "quizz",
     "short_name": "quizz",
-    "start_url": "https://joaovictorfdebarros.github.io/QuizFlutter/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",

@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Qual é o fenômeno astronômico que ocorre quando um objeto celeste passa através do plano de visão de um observador, causando um bloqueio parcial ou total da luz de uma estrela distante, e é utilizado para detectar exoplanetas?",
+        "options": ["Trânsito", "Eclipse", "Ocultação", "Lente gravitacional"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o nome do movimento artístico do início do século XX que explorou a representação não representativa e abstração em resposta à influência do Cubismo e das novas teorias da física?",
+        "options": ["Abstracionismo", "Expressionismo", "Dadaísmo", "Art Deco"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o nome da fórmula que determina o número de maneiras de colorir um grafo, dado um conjunto de cores, tal que nenhum dois vértices adjacentes tenham a mesma cor?",
+        "options": ["Número cromático", "Número de Euler", "Número de Hamilton", "Número de Grafo"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o nome da técnica usada para simplificar a análise assintótica de algoritmos, que envolve a eliminação de termos de menor ordem e constantes multiplicativas na expressão da complexidade?",
+        "options": ["Notação Big-O", "Notação Omega", "Notação Theta", "Notação de Big-Theta"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o nome da novela de José de Alencar, publicada em 1865, que é considerada uma das mais importantes do romantismo brasileiro e retrata a vida dos índios brasileiros na época colonial?",
+        "options": ["Iracema", "Senhora", "Dom Casmurro", "O Guarani"],
+        "correctAnswer": 0
+    }
+]

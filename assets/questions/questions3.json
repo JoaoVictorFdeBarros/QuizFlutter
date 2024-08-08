@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Qual é o nome do modelo de estrutura a grande escala do universo que propõe que o universo tem uma estrutura em forma de rede, com filamentos de galáxias interligados?",
+        "options": ["Teia Cósmica", "Efeito Supercluster", "Estrutura Hierárquica", "Modelo de Bolhas"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual movimento artístico do início do século XX é caracterizado por sua ênfase no dinamismo, na velocidade e na tecnologia modernas, e foi iniciado por artistas italianos como Umberto Boccioni?",
+        "options": ["Futurismo", "Vorticismo", "Construtivismo", "Suprematismo"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o nome da curva que é o lugar geométrico dos pontos cuja soma das distâncias a dois pontos fixos (focos) é constante?",
+        "options": ["Hipérbole", "Elipse", "Parábola", "Círculo"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Qual é a diferença entre o uso de '==' e '===' em linguagens de programação como JavaScript?",
+        "options": ["'==' compara valor, enquanto '===' compara valor e tipo", "'==' é mais rápido que '===' porque não compara tipos", "'==' é usado para comparação de objetos, enquanto '===' é usado para tipos primitivos", "'==' e '===' são intercambiáveis e têm o mesmo efeito"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o nome da série de romances escrita por José de Alencar que retrata a vida de diferentes grupos sociais e culturais do Brasil do século XIX?",
+        "options": ["Romances Indianistas", "Romances Urbanos", "Romances Históricos", "Romances Regionalistas"],
+        "correctAnswer": 0
+    }
+]

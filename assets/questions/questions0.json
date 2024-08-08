@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "options": ["Terra", "Vênus", "Marte", "Mercúrio"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Qual artista pintou 'A Noite Estrelada', de 1889 ?",
+        "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Jackson Pollock"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Qual é a soma dos ângulos internos de um triângulo?",
+        "options": ["180 graus", "90 graus", "360 graus", "270 graus"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual linguagem de programação é conhecida por seu logo com uma xícara de café?",
+        "options": ["Python", "Ruby", "Java", "C++"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Qual foi a primeira capital do Brasil?",
+        "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+        "correctAnswer": 3
+    }
+]

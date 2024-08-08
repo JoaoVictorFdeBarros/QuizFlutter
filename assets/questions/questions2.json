@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Qual é o nome do efeito que descreve a mudança na frequência da luz emitida por um objeto que está se movendo em relação ao observador?",
+        "options": ["Efeito Zeeman", "Efeito Compton", "Efeito Doppler", "Lente gravitacional"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Qual é a técnica de pintura que utiliza pigmentos suspensos em água aplicada a gesso úmido, como visto nas obras de Michelangelo na Capela Sistina?",
+        "options": ["Óleo sobre tela", "Aquarela", "Têmpera", "Fresco"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Qual é o nome do poliedro que tem 20 faces, todas triangulares?",
+        "options": ["Tetraedro", "Hexaedro", "Dodecaedro", "Icosaedro"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Qual é a principal diferença entre uma 'interface' e uma 'classe abstrata' em linguagens orientadas a objetos?",
+        "options": [
+          "Interfaces podem ter métodos implementados, enquanto classes abstratas não podem",
+          "Classes abstratas podem ter métodos implementados, enquanto interfaces não podem",
+          "Interfaces podem ter atributos, enquanto classes abstratas não podem",
+          "Não há diferença significativa entre interfaces e classes abstratas"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Qual escritor brasileiro é conhecido por sua obra-prima 'Grande Sertão: Veredas'?",
+        "options": ["Jorge Amado", "Graciliano Ramos", "Machado de Assis", "João Guimarães Rosa"],
+        "correctAnswer": 3
+      }
+]

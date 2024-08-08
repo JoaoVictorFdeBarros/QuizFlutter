@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Qual é a estrela mais próxima da Terra, além do Sol?",
+        "options": ["Alpha Centauri", "Betelgeuse", "Proxima Centauri", "Sirius"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Quem é o autor do quadro 'O Grito', de 1893 ?",
+        "options": ["Edvard Munch", "Gustav Klimt", "Henri Toulouse-Lautrec", "Egon Schiele"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é a fórmula para a área de um círculo?",
+        "options": ["πr", "2πr", "πr²", "2πr²"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "O que significa a sigla 'HTML'?",
+        "options": ["HyperText Markup Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyperlink Text Management Language"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Em que ano o Brasil se tornou independente de Portugal?",
+        "options": ["1808", "1822", "1889", "1922"],
+        "correctAnswer": 1
+    }
+]
